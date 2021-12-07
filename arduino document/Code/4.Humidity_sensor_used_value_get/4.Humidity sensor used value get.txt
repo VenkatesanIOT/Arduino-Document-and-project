@@ -1,0 +1,17 @@
+Components Required
+
+•	1 × Breadboard
+•	1 × Arduino Uno R3
+•	1 × DHT11
+•	1 × 10K ohm resistor
+•	3 × Jumper
+
+
+
+Example url:
+
+1.https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
+
+2.https://roboindia.com/tutorials/dht11-nodemcu-arduino/
+
+3.
